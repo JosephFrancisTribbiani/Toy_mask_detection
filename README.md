@@ -7,9 +7,11 @@
 Одностадийные детекторы:  
 - <a href="https://stepik.org/lesson/204988/step/4?unit=178763">Про урощенную версию детекции (всего 1 объект на картинке)</a>
 - <a href="https://www.youtube.com/watch?v=vRqSO6RsptU&ab_channel=ValentynSichkar">Долго и на пальцах про YOLOv3</a>
+- SSD, Retina
 
 Двустадийные детекторы:  
 - <a href="https://youtu.be/nDPWywWRIRo?t=2537">Эволюция двустадийных детекторов</a>
+- Faster RCNN, Mask RCNN
 
 Ancor-free детекторы:
 - <a href="https://towardsdatascience.com/new-approaches-to-object-detection-f5cbc925e00e">TTFNet</a>
